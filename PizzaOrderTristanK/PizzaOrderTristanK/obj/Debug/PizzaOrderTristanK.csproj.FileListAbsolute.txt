@@ -1,0 +1,10 @@
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.csprojAssemblyReference.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.frmPizzaOrder.resources
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.Properties.Resources.resources
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.csproj.GenerateResource.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.csproj.CoreCompileInputs.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\bin\Debug\PizzaOrderTristanK.exe.config
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\bin\Debug\PizzaOrderTristanK.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\bin\Debug\PizzaOrderTristanK.pdb
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\PizzaOrderTristanK\PizzaOrderTristanK\obj\Debug\PizzaOrderTristanK.pdb

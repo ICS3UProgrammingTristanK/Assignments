@@ -1,0 +1,10 @@
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.csprojAssemblyReference.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.Properties.Resources.resources
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.frmSimplified21.resources
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.csproj.GenerateResource.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.csproj.CoreCompileInputs.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\bin\Debug\Simplified21TristanK2.exe.config
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\bin\Debug\Simplified21TristanK2.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\bin\Debug\Simplified21TristanK2.pdb
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\Simplified21TristanK2\Simplified21TristanK2\obj\Debug\Simplified21TristanK2.pdb

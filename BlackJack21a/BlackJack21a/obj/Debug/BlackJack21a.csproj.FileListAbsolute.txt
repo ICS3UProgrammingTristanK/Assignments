@@ -1,0 +1,10 @@
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\bin\Debug\BlackJack21a.exe.config
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\bin\Debug\BlackJack21a.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\bin\Debug\BlackJack21a.pdb
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.csprojAssemblyReference.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.Properties.Resources.resources
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.csproj.GenerateResource.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.csproj.CoreCompileInputs.cache
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.exe
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.pdb
+C:\Users\skiju\Desktop\ICS3U Assignments\BlackJack21a\BlackJack21a\obj\Debug\BlackJack21a.BlackJack21aForm.resources
